@@ -1,0 +1,2 @@
+# pseudocodigo
+practica 5
